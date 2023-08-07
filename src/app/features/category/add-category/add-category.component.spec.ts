@@ -6,6 +6,7 @@ describe('AddCategoryComponent', () => {
   let component: AddCategoryComponent;
   let fixture: ComponentFixture<AddCategoryComponent>;
 
+
   beforeEach(() => {
     TestBed.configureTestingModule({
       declarations: [AddCategoryComponent]
